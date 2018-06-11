@@ -1,4 +1,5 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+//Model dictionary trimmed on: 11-06-2018 01:10 (UTC)
 "aaa" = (
 /turf/open/space/basic,
 /area/space)
@@ -36489,16 +36490,17 @@
 	dir = 2;
 	network = list("SS13")
 	},
+/obj/machinery/light_switch{
+	step_x = 7;
+	step_y = 9;
+	pixel_y = 28
+	},
 /obj/structure/table,
 /obj/item/reagent_containers/food/drinks/drinkingglass/filled,
 /obj/item/reagent_containers/food/drinks/drinkingglass/filled,
 /obj/item/reagent_containers/food/drinks/drinkingglass/filled,
 /obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
 /obj/item/reagent_containers/food/drinks/drinkingglass/shotglass,
-/obj/machinery/light_switch{
-	pixel_x = 7;
-	pixel_y = 36
-	},
 /turf/open/floor/plasteel/vault,
 /area/crew_quarters/bar)
 "boh" = (
@@ -84728,6 +84730,10 @@
 /turf/open/floor/plasteel/vault,
 /area/crew_quarters/bar)
 "dbR" = (
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = 24
+	},
 /obj/structure/chair/stool{
 	pixel_y = 8
 	},
@@ -84763,10 +84769,6 @@
 "dbW" = (
 /obj/structure/table/reinforced,
 /obj/item/lighter,
-/obj/machinery/firealarm{
-	dir = 8;
-	pixel_x = -26
-	},
 /turf/open/floor/wood,
 /area/crew_quarters/bar)
 "dbX" = (
@@ -117868,7 +117870,7 @@ bfo
 bfo
 bfo
 bfp
-dby
+bua
 bvw
 bfp
 bzJ
@@ -118892,13 +118894,13 @@ dbA
 dbF
 dbH
 dbN
-dbB
+bhe
 bpB
-dbB
+bhe
 bsF
 buc
 cVl
-dcn
+bxa
 bCj
 bBg
 bBh
@@ -119113,7 +119115,7 @@ afB
 apA
 aqQ
 aib
-dbt
+dbu
 atY
 auN
 avM
@@ -119147,13 +119149,13 @@ bdD
 dby
 dbB
 bjh
-dbB
-dbB
-dbB
+bhe
+bhe
+bhe
 dbT
 brj
-dbH
-dbB
+dca
+bhe
 bvz
 bxb
 bzK
@@ -119401,18 +119403,18 @@ aSZ
 baD
 bch
 bdD
-dby
-dbB
-dbB
+dbz
+bhe
+bhe
 bld
 dbO
 bob
-dbB
+bhe
 bfo
 bsG
-dbB
+bhe
 bvA
-dcn
+bxa
 dcr
 bBg
 bBh
@@ -119664,12 +119666,12 @@ bjj
 ble
 dbP
 boc
-dbB
+bhe
 bfo
 dcb
-dbB
+bhe
 cYo
-dcn
+bxa
 dcs
 bBg
 bBj
@@ -119922,7 +119924,7 @@ bfo
 bfq
 bfq
 bpC
-bfq
+brk
 cQh
 bud
 bvB
@@ -120949,8 +120951,8 @@ bjl
 bfq
 bfq
 bog
-dbU
-dbX
+bpF
+brm
 cVe
 dci
 cYp
@@ -121207,8 +121209,8 @@ akc
 bms
 boh
 bpG
-dbX
-dcc
+brm
+dcf
 bpD
 bvE
 bxd
@@ -121463,9 +121465,9 @@ bjl
 bfq
 bmt
 boh
-dbV
+bpH
 dbY
-dcc
+dcg
 bpD
 dcl
 boe
@@ -121720,9 +121722,9 @@ bjn
 bfq
 bmu
 dbR
-dbU
-dbX
-dcd
+bpF
+brm
+bsI
 bpD
 bvF
 boe
@@ -121976,7 +121978,7 @@ bhh
 bjo
 bfq
 bfq
-brk
+bfq
 cQi
 brn
 bsJ
